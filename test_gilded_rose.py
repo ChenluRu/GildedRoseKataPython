@@ -11,8 +11,6 @@ class GildedRoseTest(unittest.TestCase):
     #     gilded_rose.update_quality()
     #     self.assertEquals("fixme", items[0].name)
 
-<<<<<<< Updated upstream
-=======
     # Test +5 Dexterity Vest decreases in quality and sell_in over time
     def test_vest_item_should_decrease_after_one_day(self):
         vest = "+5 Dexterity Vest"
@@ -94,7 +92,6 @@ class GildedRoseTest(unittest.TestCase):
         self.assertEqual(items[0].quality, 4)
         self.assertEqual(items[1].quality, 2)
         self.assertEqual(items[2].quality, 0)
->>>>>>> Stashed changes
 
 if __name__ == '__main__':
     unittest.main()

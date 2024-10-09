@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d679e8e1-c191-4811-90a0-b35fa5053f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gilded_rose.py" beforeDir="false" afterPath="$PROJECT_DIR$/gilded_rose.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_gilded_rose.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_gilded_rose.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Lab4",
+    "git-widget-placeholder": "Lab5",
     "last_opened_file_path": "/Users/a/GildedRoseKataPython",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727837914357</updated>
       <workItem from="1727837915556" duration="4537000" />
-      <workItem from="1728443121528" duration="3279000" />
+      <workItem from="1728443121528" duration="3511000" />
     </task>
     <servers />
   </component>
